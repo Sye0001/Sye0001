@@ -7,7 +7,7 @@ Web Developer and Amateur in Cyber Security
 I'm a 16-year-old from Australia who embarked on my coding journey in July 2023. Since then, I've made progress in my development skills, learning HTML, CSS with a focus on Tailwind CSS, and JavaScript. My passion for coding has led me down the path of becoming a full-stack developer. Additionally, I'm actively studying Cyber Security to prepare for a promising career in the field.
 
 * 🌍  I'm based in Australia
-* 🖥️  See my portfolio at [sye.lol](http://sye.lol)
+* 🖥️  See my portfolio at [sye.lol](http://sye.lol) or [sye.bio](http://sye.bio)
 * ✉️  You can contact me at [@.sye (Discord)](mailto:@.sye (Discord))
 
 ### Skills
