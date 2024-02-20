@@ -1,1 +1,1 @@
-![image](https://github.com/Sye0001/Sye0001/assets/119392569/29541e13-6a4f-417f-9d40-658780cd9f94)
+[![Discord Presence](https://lanyard.cnrad.dev/api/208168562286788610)](https://discord.com/users/208168562286788610)
